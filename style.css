@@ -1,0 +1,47 @@
+/* style.css */
+
+/* Estilos personalizados */
+
+/* Estilos para el cuerpo del documento */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Estilos para el encabezado */
+h1 {
+    color: #333;
+}
+
+/* Estilos para el contenedor del perfil */
+.profile-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para la imagen de perfil */
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 auto 20px;
+    display: block;
+}
+
+/* Estilos para el texto de la biografía */
+.biography-text {
+    color: #666;
+    line-height: 1.5;
+}
+
+/* Estilos para el texto de la fecha */
+.date-text {
+    color: #999;
+    font-size: 14px;
+    margin-top: 20px;
+    text-align: center;
+}
+
